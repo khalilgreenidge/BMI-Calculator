@@ -5,4 +5,4 @@ This application features a simple GUI interface that allows users to determine 
 ![image showing program](snippet.JPG)
 
 
-This program can be run using the BMI.java file.
+This program can be run using the BMI.java file in the src folder.
